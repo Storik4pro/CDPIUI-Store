@@ -1,0 +1,16 @@
+{
+    "localized_strings_directory":{
+        "RU":"RU/strings.json",
+        "EN":"EN/strings.json"
+    },
+    "categories":[
+        "components",
+        "addons",
+        "configs"
+    ],
+    "categories_directory": {
+        "components":"Components",
+        "addons":"AddOns",
+        "configs":"Configs"
+    }
+}

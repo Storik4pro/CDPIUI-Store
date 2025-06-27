@@ -1,0 +1,15 @@
+{
+    "type":"component",
+    "name":"zapret",
+    "developer":"bol-van",
+    "icon":"$STATICIMAGE(Store/zapret.png)",
+    "description":"description.md",
+    "links":[
+        {"name":"repo", "url":"https://github.com/bol-van/zapret"}
+    ],
+    "version_control":"git_only_last",
+    "version_control_link":"https://github.com/bol-van/zapret",
+    "after_install_actions":"$RUNSCRIPT(finish_component_setup, zapret)",
+    "target_minversion":"0.0.0.0",
+    "target_maxversion":"NaN"
+}

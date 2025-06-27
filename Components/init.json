@@ -1,0 +1,15 @@
+{
+    "type":"basic_category",
+    "items":[
+        "zapret",
+        "goodbyedpi",
+        "byedpi",
+        "spoofdpi"
+    ],
+    "items_directories":{
+        "zapret":"Zapret",
+        "byedpi":"ByeDPI",
+        "goodbyedpi":"GoodbyeDPI",
+        "spoofdpi":"SpoofDPI"
+    }
+}
