@@ -1,8 +1,10 @@
 {
+    "store_id":"CSZTBN012",
     "type":"component",
     "name":"zapret",
     "developer":"bol-van",
     "icon":"$STATICIMAGE(Store/zapret.png)",
+    "background":"#FFF122",
     "description":"description.md",
     "links":[
         {"name":"repo", "url":"https://github.com/bol-van/zapret"}
