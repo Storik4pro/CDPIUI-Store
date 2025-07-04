@@ -5,7 +5,11 @@
     "developer":"bol-van",
     "icon":"$STATICIMAGE(Store/zapret.png)",
     "background":"#FFF122",
-    "description":"description.md",
+    "stars":"11.8k",
+    "small_description":"$LOADDYNAMIC(Components/Zapret/{LOC_CODE}/small_description.md)",
+    "description":"$LOADDYNAMIC(Components/Zapret/{LOC_CODE}/description.md)",
+    "display_warning":true,
+    "warning_text":"$LOADDYNAMIC(Components/Zapret/{LOC_CODE}/warn.md)",
     "links":[
         {"name":"repo", "url":"https://github.com/bol-van/zapret"}
     ],
