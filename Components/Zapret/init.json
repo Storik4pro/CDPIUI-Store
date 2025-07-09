@@ -17,6 +17,8 @@
     "version_control_link":"https://github.com/bol-van/zapret",
     "download_link":"https://github.com/bol-van/zapret-win-bundle/archive/refs/heads/master.zip",
     "filetype":"archive",
+    "archive_root_folder":"zapret-win-bundle-master/zapret-winws/",
+    "target_executable_file":"winws",
     "after_install_actions":"$RUNSCRIPT(finish_component_setup, zapret)",
     "target_minversion":"0.0.0.0",
     "target_maxversion":"NaN"
