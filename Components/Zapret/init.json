@@ -20,6 +20,7 @@
     "archive_root_folder":"zapret-win-bundle-master/zapret-winws/",
     "target_executable_file":"winws",
     "after_install_actions":"$RUNSCRIPT(finish_component_setup, zapret)",
+    "dependencies" : [],
     "target_minversion":"0.0.0.0",
     "target_maxversion":"NaN"
 }
