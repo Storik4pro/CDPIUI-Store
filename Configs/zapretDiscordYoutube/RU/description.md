@@ -15,8 +15,6 @@ Flowseal/zapret-discord-youtube
 
 #### 🩷Благодарность участникам проекта
 
-[![Contributors](https://contrib.rocks/image?repo=Flowseal/zapret-discord-youtube)](https://github.com/Flowseal/zapret-discord-youtube/graphs/contributors)
-![Contributors](https://contrib.rocks/image?repo=Flowseal/zapret-discord-youtube)
-https://contrib.rocks/image?repo=Flowseal/zapret-discord-youtube
+https://github.com/Flowseal/zapret-discord-youtube/graphs/contributors
 
 💖 Отдельная благодарность разработчику [zapret](https://github.com/bol-van/zapret) - [bol-van](https://github.com/bol-van)
