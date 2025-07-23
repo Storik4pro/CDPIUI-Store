@@ -1,10 +1,12 @@
 {
     "store_id":"C002CS",
-    "type":"basic_category",
+    "type":"second_category",
     "items":[
-        "ytdisbystro"
+        "ytdisbystro",
+        "zapretdiscordyoutube"
     ],
     "items_directories":{
-        "ytdisbystro":"YtDisBystro"
+        "ytdisbystro":"YtDisBystro",
+        "zapretdiscordyoutube":"zapretDiscordYoutube"
     }
 }
