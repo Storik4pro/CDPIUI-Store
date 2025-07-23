@@ -1,0 +1,10 @@
+{
+    "store_id":"C002CS",
+    "type":"basic_category",
+    "items":[
+        "ytdisbystro"
+    ],
+    "items_directories":{
+        "ytdisbystro":"YtDisBystro"
+    }
+}

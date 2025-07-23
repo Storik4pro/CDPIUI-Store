@@ -1,0 +1,24 @@
+{
+    "store_id":"CSYOKS001",
+    "type":"configlist",
+    "name":"ytdisbystro",
+    "developer":"KDS",
+    "icon":"$STATICIMAGE(Store/zapret.png)",
+    "background":"#FFF122",
+    "stars":"-",
+    "small_description":"$LOADDYNAMIC(Configs/YtDisBystro/{LOC_CODE}/small_description.md)",
+    "description":"$LOADDYNAMIC(Configs/YtDisBystro/{LOC_CODE}/description.md)",
+    "display_warning":true,
+    "warning_text":"$LOADDYNAMIC(Configs/YtDisBystro/{LOC_CODE}/warn.md)",
+    "links":[
+        {"name":"ntc.party", "url":"https://ntc.party/t/13251"}
+    ],
+    "version_control":"git",
+    "version_control_link":"https://github.com/bol-van/zapret",
+    "filetype":"archive",
+    "archive_root_folder":"/",
+    "after_install_actions":"$RUNSCRIPT(apply_config, CSYOKS001)",
+    "dependencies" : [["CSZTBN012", "71.2"]],
+    "target_minversion":"0.0.0.0",
+    "target_maxversion":"NaN"
+}

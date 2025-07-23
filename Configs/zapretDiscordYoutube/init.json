@@ -1,0 +1,23 @@
+{
+    "store_id":"CSZEFL002",
+    "type":"configlist",
+    "name":"zapretdiscordyoutube",
+    "developer":"Flowseal",
+    "icon":"$STATICIMAGE(Store/zapret.png)",
+    "background":"#FFF122",
+    "stars":"15k",
+    "small_description":"$LOADDYNAMIC(Configs/zapretDiscordYoutube/{LOC_CODE}/small_description.md)",
+    "description":"$LOADDYNAMIC(Configs/zapretDiscordYoutube/{LOC_CODE}/description.md)",
+    "display_warning":false,
+    "links":[
+        {"name":"git", "url":"https://github.com/Flowseal/zapret-discord-youtube"}
+    ],
+    "version_control":"git",
+    "version_control_link":"https://github.com/Storik4pro/zapret-discord-youtube",
+    "filetype":"archive",
+    "archive_root_folder":"/",
+    "after_install_actions":"$RUNSCRIPT(apply_config, CSZEFL002)",
+    "dependencies" : [["CSZTBN012", "71.2"]],
+    "target_minversion":"0.0.0.0",
+    "target_maxversion":"NaN"
+}

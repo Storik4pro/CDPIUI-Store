@@ -5,7 +5,7 @@
     "developer":"bol-van",
     "icon":"$STATICIMAGE(Store/zapret.png)",
     "background":"#FFF122",
-    "stars":"11.8k",
+    "stars":"12k",
     "small_description":"$LOADDYNAMIC(Components/Zapret/{LOC_CODE}/small_description.md)",
     "description":"$LOADDYNAMIC(Components/Zapret/{LOC_CODE}/description.md)",
     "display_warning":true,
