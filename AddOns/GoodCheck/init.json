@@ -1,0 +1,24 @@
+{
+    "store_id":"CSZTBN012",
+    "type":"addon",
+    "name":"goodcheck",
+    "developer":"Ori",
+    "icon":"$STATICIMAGE(Store/zapret.png)",
+    "background":"#FFF122",
+    "stars":"-",
+    "small_description":"$LOADDYNAMIC(AddOns/GoodCheck/{LOC_CODE}/small_description.md)",
+    "description":"$LOADDYNAMIC(AddOns/GoodCheck/{LOC_CODE}/description.md)",
+    "display_warning":false,
+    "links":[
+        {"name":"nts.party", "url":"https://ntc.party/t/10880"}
+    ],
+    "version_control":"git",
+    "version_control_link":"https://github.com/Storik4pro/GoodCheckGoGo",
+    "filetype":"archive",
+    "archive_root_folder":"/",
+    "target_executable_file":"goodcheckgogo",
+    "after_install_actions":"$RUNSCRIPT(finish_goodcheck_setup)",
+    "dependencies" : [],
+    "target_minversion":"0.0.0.0",
+    "target_maxversion":"NaN"
+}

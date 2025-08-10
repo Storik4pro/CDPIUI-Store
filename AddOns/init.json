@@ -1,0 +1,10 @@
+{
+    "store_id":"C003AS",
+    "type":"second_category",
+    "items":[
+        "goodcheck"
+    ],
+    "items_directories":{
+        "goodcheck":"GoodCheck"
+    }
+}
