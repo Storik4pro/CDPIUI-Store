@@ -2,6 +2,7 @@
     "store_id":"CSZEFL002",
     "type":"configlist",
     "name":"zapretdiscordyoutube",
+    "short_name":"Zaret-Discord-Youtube",
     "developer":"Flowseal",
     "icon":"$STATICIMAGE(Store/zapret.png)",
     "background":"#FFF122",

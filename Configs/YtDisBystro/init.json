@@ -2,6 +2,7 @@
     "store_id":"CSYOKS001",
     "type":"configlist",
     "name":"ytdisbystro",
+    "short_name":"YtDisBystro",
     "developer":"KDS",
     "icon":"$STATICIMAGE(Store/zapret.png)",
     "background":"#FFF122",
