@@ -1,0 +1,24 @@
+{
+    "store_id":"CSSIXC048",
+    "type":"component",
+    "name":"spoofdpi",
+    "short_name":"SpoofDPI",
+    "developer":"xvzc",
+    "icon":"$STATICIMAGE(Store/spoofdpi.png)",
+    "background":"#FFF122",
+    "stars":"4.1k",
+    "small_description":"$LOADDYNAMIC(Components/SpoofDPI/{LOC_CODE}/small_description.md)",
+    "description":"$LOADDYNAMIC(Components/SpoofDPI/{LOC_CODE}/description.md)",
+    "display_warning":false,
+    "links":[
+        {"name":"repo", "url":"https://github.com/xvzc/SpoofDPI"}
+    ],
+    "version_control":"git",
+    "version_control_link":"https://github.com/xvzc/SpoofDPI",
+    "filetype":"exe",
+    "target_executable_file":"spoofdpi-windows-amd64",
+    "after_install_actions":"$RUNSCRIPT(finish_component_setup, spoofdpi)",
+    "dependencies" : [],
+    "target_minversion":"0.0.0.0",
+    "target_maxversion":"NaN"
+}
