@@ -1,0 +1,25 @@
+{
+    "store_id":"CSBIHA024",
+    "type":"component",
+    "name":"byedpi",
+    "short_name":"ByeDPI",
+    "developer":"hufrea",
+    "icon":"$STATICIMAGE(Store/byedpi.png)",
+    "background":"#FFF122",
+    "stars":"2.5k",
+    "small_description":"$LOADDYNAMIC(Components/ByeDPI/{LOC_CODE}/small_description.md)",
+    "description":"$LOADDYNAMIC(Components/ByeDPI/{LOC_CODE}/description.md)",
+    "display_warning":false,
+    "links":[
+        {"name":"repo", "url":"https://github.com/hufrea/byedpi"}
+    ],
+    "version_control":"git",
+    "version_control_link":"https://github.com/hufrea/byedpi",
+    "filetype":"archive",
+    "archive_root_folder":"",
+    "target_executable_file":"ciadpi",
+    "after_install_actions":"$RUNSCRIPT(finish_component_setup, byedpi)",
+    "dependencies" : [],
+    "target_minversion":"0.0.0.0",
+    "target_maxversion":"NaN"
+}
