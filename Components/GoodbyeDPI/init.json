@@ -1,0 +1,25 @@
+{
+    "store_id":"CSGIVS036",
+    "type":"component",
+    "name":"goodbyedpi",
+    "short_name":"GoodbyeDPI",
+    "developer":"ValdikSS",
+    "icon":"$STATICIMAGE(Store/goodbyedpi.png)",
+    "background":"#FFF122",
+    "stars":"27.2k",
+    "small_description":"$LOADDYNAMIC(Components/GoodbyeDPI/EN/small_description.md)",
+    "description":"$LOADDYNAMIC(Components/GoodbyeDPI/EN/description.md)",
+    "display_warning":false,
+    "links":[
+        {"name":"repo", "url":"https://github.com/ValdikSS/GoodbyeDPI"}
+    ],
+    "version_control":"git",
+    "version_control_link":"https://github.com/ValdikSS/GoodbyeDPI",
+    "filetype":"archive",
+    "archive_root_folder":"$ANY/x86_64/",
+    "target_executable_file":"goodbyedpi",
+    "after_install_actions":"$RUNSCRIPT(finish_component_setup, goodbyedpi)",
+    "dependencies" : [],
+    "target_minversion":"0.0.0.0",
+    "target_maxversion":"NaN"
+}
