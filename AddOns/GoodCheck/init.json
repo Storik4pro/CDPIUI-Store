@@ -2,7 +2,7 @@
     "store_id":"ASGKOI001",
     "type":"addon",
     "name":"goodcheck",
-    "short_name":"GoodChek",
+    "short_name":"GoodCheck",
     "developer":"Ori",
     "icon":"$STATICIMAGE(Store/zapret.png)",
     "background":"#FFF122",

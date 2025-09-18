@@ -2,7 +2,7 @@
     "store_id":"CSZTBN012",
     "type":"component",
     "name":"zapret",
-    "short_name":"Zaret (winws)",
+    "short_name":"Zapret",
     "developer":"bol-van",
     "icon":"$STATICIMAGE(Store/zapret.png)",
     "background":"#FFF122",
