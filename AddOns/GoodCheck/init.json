@@ -11,7 +11,7 @@
     "description":"$LOADDYNAMIC(AddOns/GoodCheck/{LOC_CODE}/description.md)",
     "display_warning":false,
     "links":[
-        {"name":"nts.party", "url":"https://ntc.party/t/10880"}
+        {"name":"ntc.party", "url":"https://ntc.party/t/10880"}
     ],
     "version_control":"git",
     "version_control_link":"https://github.com/Storik4pro/GoodCheckGoGo",

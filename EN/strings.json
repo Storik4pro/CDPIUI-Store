@@ -1,5 +1,14 @@
 {
     "components":"Components",
     "addOns":"Add-ons",
-    "configs":"Config kits"
+    "configs":"Config kits",
+    "repo":"GitHub repository",
+    "ntc.party":"Page on ntc.party forum",
+    "zapret":"Zapret (winws)",
+    "goodbyedpi":"GoodbyeDPI",
+    "byedpi":"ByeDPI",
+    "spoofdpi":"SpoofDPI",
+    "goodcheck":"GoodCheck — auto-configuration tool",
+    "ytdisbystro":"Config kit for Zapret (YtDisBystro)",
+    "zapretdiscordyoutube":"Config kit for Zapret (Zapret-Discord-Youtube)"
 }
