@@ -5,7 +5,7 @@
     "short_name":"ByeDPI",
     "developer":"hufrea",
     "icon":"$STATICIMAGE(Store/byedpi.png)",
-    "background":"#FFF122",
+    "background":"#0063B1",
     "stars":"2.5k",
     "small_description":"$LOADDYNAMIC(Components/ByeDPI/{LOC_CODE}/small_description.md)",
     "description":"$LOADDYNAMIC(Components/ByeDPI/{LOC_CODE}/description.md)",

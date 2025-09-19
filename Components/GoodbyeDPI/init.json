@@ -5,7 +5,7 @@
     "short_name":"GoodbyeDPI",
     "developer":"ValdikSS",
     "icon":"$STATICIMAGE(Store/goodbyedpi.png)",
-    "background":"#FFF122",
+    "background":"#29A5DC",
     "stars":"27.2k",
     "small_description":"$LOADDYNAMIC(Components/GoodbyeDPI/EN/small_description.md)",
     "description":"$LOADDYNAMIC(Components/GoodbyeDPI/EN/description.md)",
