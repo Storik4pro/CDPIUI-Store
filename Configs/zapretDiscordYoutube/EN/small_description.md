@@ -1,0 +1,1 @@
+Config kit for the Zapret component by Flowseal.

@@ -1,0 +1,2 @@
+Automatic launch settings selection tool for Zapret, ByeDPI, and GoodbyeDPI
+

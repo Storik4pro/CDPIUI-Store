@@ -1,0 +1,1 @@
+The author has stopped working on this build. Any "sequels" from third-party developers published on third-party resources are used at your own risk; no one here is responsible for them.
