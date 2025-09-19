@@ -4,7 +4,7 @@
     "name":"goodcheck",
     "short_name":"GoodCheck",
     "developer":"Ori",
-    "icon":"$STATICIMAGE(Store/zapret.png)",
+    "icon":"$STATICIMAGE(Store/empty.png)",
     "background":"#FFF122",
     "stars":"-",
     "small_description":"$LOADDYNAMIC(AddOns/GoodCheck/{LOC_CODE}/small_description.md)",

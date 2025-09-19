@@ -4,7 +4,7 @@
     "name":"zapretdiscordyoutube",
     "short_name":"Zapret-Discord-Youtube",
     "developer":"Flowseal",
-    "icon":"$STATICIMAGE(Store/zapret.png)",
+    "icon":"$STATICIMAGE(Store/empty.png)",
     "background":"#FFF122",
     "stars":"15k",
     "small_description":"$LOADDYNAMIC(Configs/zapretDiscordYoutube/{LOC_CODE}/small_description.md)",
