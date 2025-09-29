@@ -12,14 +12,15 @@
     "display_warning":true,
     "warning_text":"$LOADDYNAMIC(Configs/YtDisBystro/{LOC_CODE}/warn.md)",
     "links":[
-        {"name":"ntc.party", "url":"https://ntc.party/t/13251"}
+        {"name":"ntc.party", "url":"https://ntc.party/t/13251"},
+        {"name":"cloudtips", "url":"https://pay.cloudtips.ru/p/a5005097"}
     ],
     "version_control":"git",
-    "version_control_link":"https://github.com/bol-van/zapret",
+    "version_control_link":"https://github.com/Storik4pro/YtDisBystro",
     "filetype":"archive",
     "archive_root_folder":"/",
     "after_install_actions":"$RUNSCRIPT(apply_config, CSYOKS001)",
-    "dependencies" : [["CSZTBN012", "71.2"]],
-    "target_minversion":"2.0.0.0",
+    "dependencies" : [["CSZTBN012", "71.4"]],
+    "target_minversion":"0.0.0.0",
     "target_maxversion":"NaN"
 }
