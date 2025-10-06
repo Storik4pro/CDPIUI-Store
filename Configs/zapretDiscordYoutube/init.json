@@ -11,7 +11,7 @@
     "description":"$LOADDYNAMIC(Configs/zapretDiscordYoutube/{LOC_CODE}/description.md)",
     "display_warning":false,
     "links":[
-        {"name":"git", "url":"https://github.com/Flowseal/zapret-discord-youtube"}
+        {"name":"repo", "url":"https://github.com/Flowseal/zapret-discord-youtube"}
     ],
     "version_control":"git",
     "version_control_link":"https://github.com/Storik4pro/zapret-discord-youtube",
