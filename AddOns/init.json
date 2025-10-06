@@ -2,9 +2,11 @@
     "store_id":"C003AS",
     "type":"second_category",
     "items":[
-        "goodcheck"
+        "goodcheck",
+        "proxifyre"
     ],
     "items_directories":{
-        "goodcheck":"GoodCheck"
+        "goodcheck":"GoodCheck",
+        "proxifyre":"ProxiFyre"
     }
 }

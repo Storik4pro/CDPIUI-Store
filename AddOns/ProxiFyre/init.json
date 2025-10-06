@@ -1,0 +1,44 @@
+{
+    "store_id":"ASPEWK002",
+    "type":"addon",
+    "name":"proxifyre",
+    "short_name":"ProxiFyre",
+    "developer":"wiresock",
+    "icon":"$STATICIMAGE(Store/empty.png)",
+    "background":"#107C10",
+    "stars":"671",
+    "small_description":"$LOADDYNAMIC(AddOns/ProxiFyre/{LOC_CODE}/small_description.md)",
+    "description":"$LOADDYNAMIC(AddOns/ProxiFyre/{LOC_CODE}/description.md)",
+    "display_warning":false,
+    "links":[
+        {"name":"repo", "url":"https://github.com/wiresock/proxifyre"},
+        {"name":"wpf", "url":"https://github.com/wiresock/ndisapi"}
+    ],
+    "version_control":"several_repos",
+    "files_to_download": [
+        { 
+            "type": "archive", "archive_root_folder":"/", "actions": "keep", "version_control":"git", 
+            "version_control_link":"https://github.com/wiresock/proxifyre", 
+            "preffered_version":"2.1.2"
+        },
+        {
+            "type": "archive", "archive_root_folder":"/", "actions": "keep", "version_control":"git", 
+            "version_control_link":"https://github.com/wiresock/ndisapi/",
+            "preffered_version":"3.6.1", "preffered_to_download_file_name" : "tools_bin_x64"
+        },
+        {
+            "type": "msi", "actions": "remove", "version_control":"git", 
+            "version_control_link":"https://github.com/wiresock/ndisapi/",
+            "preffered_version":"3.6.1", "preffered_to_download_file_name": "x64"
+        },
+        {
+            "type": "msi", "actions": "remove", "version_control":"external_site_only_last", 
+            "download_link":"https://aka.ms/vs/17/release/vc_redist.x64.exe"
+        }
+    ],
+    "target_executable_file":"ProxiFyre",
+    "after_install_actions":"$RUNSCRIPT(finish_proxifyre_setup)",
+    "dependencies" : [],
+    "target_minversion":"0.0.3.0",
+    "target_maxversion":"NaN"
+}
