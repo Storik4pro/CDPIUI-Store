@@ -19,17 +19,17 @@
         { 
             "type": "archive", "archive_root_folder":"/", "actions": "keep", "version_control":"git", 
             "version_control_link":"https://github.com/wiresock/proxifyre", 
-            "preffered_version":"2.1.2"
+            "preffered_version":"v2.1.2"
         },
         {
             "type": "archive", "archive_root_folder":"/", "actions": "keep", "version_control":"git", 
             "version_control_link":"https://github.com/wiresock/ndisapi/",
-            "preffered_version":"3.6.1", "preffered_to_download_file_name" : "tools_bin_x64"
+            "preffered_version":"v3.6.1", "preffered_to_download_file_name" : "tools_bin_x64"
         },
         {
             "type": "msi", "actions": "remove", "version_control":"git", 
             "version_control_link":"https://github.com/wiresock/ndisapi/",
-            "preffered_version":"3.6.1", "preffered_to_download_file_name": "x64"
+            "preffered_version":"v3.6.1", "preffered_to_download_file_name": "x64"
         },
         {
             "type": "msi", "actions": "remove", "version_control":"external_site_only_last", 
