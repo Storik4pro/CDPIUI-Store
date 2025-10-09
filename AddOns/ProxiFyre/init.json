@@ -32,7 +32,7 @@
             "preffered_version":"v3.6.1", "preffered_to_download_file_name": "x64"
         },
         {
-            "type": "msi", "actions": "remove", "version_control":"external_site_only_last", 
+            "type": "elmsi", "actions": "remove", "version_control":"external_site_only_last", 
             "download_link":"https://aka.ms/vs/17/release/vc_redist.x64.exe"
         }
     ],
