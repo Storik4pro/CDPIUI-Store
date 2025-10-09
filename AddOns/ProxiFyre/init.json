@@ -19,7 +19,7 @@
         { 
             "type": "archive", "archive_root_folder":"/", "actions": "keep", "version_control":"git", 
             "version_control_link":"https://github.com/wiresock/proxifyre", 
-            "preffered_version":"v2.1.2"
+            "preffered_version":"v2.1.2", "preffered_to_download_file_name": "x64"
         },
         {
             "type": "archive", "archive_root_folder":"/", "actions": "keep", "version_control":"git", 
