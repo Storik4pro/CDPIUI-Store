@@ -36,6 +36,16 @@
             "download_link":"https://aka.ms/vs/17/release/vc_redist.x64.exe"
         }
     ],
+    "license":[
+        {
+            "name":"Windows Packet Filter ELUA",
+            "url":"$GETSRDIR()AddOns/ProxiFyre/LICENSE/WPF_ELUA.txt"
+        },
+        {
+            "name":"Visual Studio 2022 Redistributable ELUA",
+            "url":"$OPENINBROWSER(https://visualstudio.microsoft.com/license-terms/vs2022-cruntime/)"
+        }
+    ],
     "target_executable_file":"ProxiFyre",
     "after_install_actions":"$RUNSCRIPT(finish_proxifyre_setup)",
     "dependencies" : [],
