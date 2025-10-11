@@ -39,7 +39,7 @@
     "license":[
         {
             "name":"Windows Packet Filter ELUA",
-            "url":"$GETSRDIR()AddOns/ProxiFyre/LICENSE/WPF_ELUA.txt"
+            "url":"$GETSRDIR()/AddOns/ProxiFyre/LICENSE/WPF_ELUA.txt"
         },
         {
             "name":"Visual Studio 2022 Redistributable ELUA",
