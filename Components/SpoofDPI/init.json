@@ -19,6 +19,6 @@
     "target_executable_file":"spoofdpi-windows-amd64",
     "after_install_actions":"$RUNSCRIPT(finish_component_setup, spoofdpi)",
     "dependencies" : [],
-    "target_minversion":"0.0.0.0",
+    "target_minversion":"1.0.0.0",
     "target_maxversion":"NaN"
 }
