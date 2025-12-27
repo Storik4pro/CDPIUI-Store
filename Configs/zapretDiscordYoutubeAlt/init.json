@@ -1,0 +1,24 @@
+{
+    "store_id":"CSZTR1003",
+    "type":"configlist",
+    "name":"zapretdiscordyoutubealt",
+    "short_name":"Zapret-Discord-Youtube by Remba",
+    "developer":"remba321",
+    "icon":"$STATICIMAGE(Store/empty.png)",
+    "background":"#FFF122",
+    "stars":"-",
+    "small_description":"$LOADDYNAMIC(Configs/zapretDiscordYoutubeAlt/{LOC_CODE}/small_description.md)",
+    "description":"$LOADDYNAMIC(Configs/zapretDiscordYoutubeAlt/{LOC_CODE}/description.md)",
+    "display_warning":false,
+    "links":[
+        {"name":"repo", "url":"https://github.com/Flowseal/zapret-discord-youtube/discussions/3423"}
+    ],
+    "version_control":"git",
+    "version_control_link":"https://github.com/Storik4pro/zapret-discord-youtube-alt/",
+    "filetype":"archive",
+    "archive_root_folder":"/",
+    "after_install_actions":"$RUNSCRIPT(apply_config, CSZTR1003)",
+    "dependencies" : [["CSZTBN012", "72.5"]],
+    "target_minversion":"0.0.0.0",
+    "target_maxversion":"NaN"
+}
