@@ -3,10 +3,12 @@
     "type":"second_category",
     "items":[
         "ytdisbystro",
-        "zapretdiscordyoutube"
+        "zapretdiscordyoutube",
+        "zapretdiscordyoutubealt"
     ],
     "items_directories":{
         "ytdisbystro":"YtDisBystro",
-        "zapretdiscordyoutube":"zapretDiscordYoutube"
+        "zapretdiscordyoutube":"zapretDiscordYoutube",
+        "zapretdiscordyoutubealt":"zapretDiscordYoutubeAlt"
     }
 }
