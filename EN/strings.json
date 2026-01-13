@@ -8,11 +8,13 @@
     "goodbyedpi":"GoodbyeDPI",
     "byedpi":"ByeDPI",
     "spoofdpi":"SpoofDPI",
+    "nodpi":"NoDPI",
     "goodcheck":"GoodCheck — auto-configuration tool",
     "ytdisbystro":"Config kit for Zapret (YtDisBystro)",
     "zapretdiscordyoutube":"Config kit for Zapret (Zapret-Discord-Youtube)",
     "zapretdiscordyoutubealt" : "Alt config kit for Zapret (By Remba)",
     "wpf":"Window Packet Filter repository",
     "cloudtips":"Support the author via CloudTips (Russia)",
-    "proxifyre":"ProxiFyre"
+    "proxifyre":"ProxiFyre",
+    "android":"Android version"
 }

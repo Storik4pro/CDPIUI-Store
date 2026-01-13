@@ -3,13 +3,15 @@
     "type":"basic_category",
     "items":[
         "zapret",
-        "goodbyedpi",
         "byedpi",
+        "nodpi",
+        "goodbyedpi",
         "spoofdpi"
     ],
     "items_directories":{
         "zapret":"Zapret",
         "byedpi":"ByeDPI",
+        "nodpi":"NoDPI",
         "goodbyedpi":"GoodbyeDPI",
         "spoofdpi":"SpoofDPI"
     }

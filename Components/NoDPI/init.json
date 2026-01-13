@@ -1,0 +1,28 @@
+{
+    "store_id":"CSNIG9025",
+    "type":"component",
+    "name":"nodpi",
+    "short_name":"NoDPI",
+    "developer":"GVCoder09",
+    "icon":"$STATICIMAGE(Store/nodpi.png)",
+    "background":"#000000",
+    "stars":"1.2k",
+    "small_description":"$LOADDYNAMIC(Components/NoDPI/{LOC_CODE}/small_description.md)",
+    "description":"$LOADDYNAMIC(Components/NoDPI/{LOC_CODE}/description.md)",
+    "display_warning":false,
+    "links":[
+        {"name":"repo", "url":"https://github.com/GVCoder09/NoDPI"},
+        {"name":"android", "url":"https://github.com/GVCoder09/NoDPI4Android"}
+    ],
+    "version_control":"git",
+    "version_control_link":"https://github.com/GVCoder09/NoDPI",
+    "filetype":"archive",
+    "preffered_to_download_file_name" : "win_x64",
+    "archive_root_folder":"$ANY/",
+    "target_executable_file":"nodpi",
+    "before_install_actions":"$RUNSCRIPT(download_easy_designer_annotation_file, https://gvcoder09.github.io/nodpi_site/api/v1/command-spec/latest.xml)",
+    "after_install_actions":"$RUNSCRIPT(finish_component_setup, nodpi)",
+    "dependencies" : [],
+    "target_minversion":"0.2.0.0",
+    "target_maxversion":"NaN"
+}
