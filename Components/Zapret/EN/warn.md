@@ -1,0 +1,1 @@
+WARNING: ANTIVIRUS SOFTWARE MAY HAVE A HEURISTIC REACTION TO UPX AND WINDIVERT. WINDIVERT is a hacking tool, potentially unwanted software, and potentially part of a virus, but not a virus in itself. UPX is not a Trojan, but an executable file compressor. It does not contain viruses or miners.

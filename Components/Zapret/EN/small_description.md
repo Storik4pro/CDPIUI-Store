@@ -1,0 +1,1 @@
+A standalone DPI countermeasure that doesn't require any third-party servers. It can help bypass blocking or slowdowns of HTTP(S) websites, and perform signature analysis of TCP and UDP protocols, for example, to block VPNs.
