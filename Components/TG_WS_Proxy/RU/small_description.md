@@ -1,0 +1,1 @@
+Локальный SOCKS5-прокси для Telegram Desktop, который ускоряет работу Telegram.

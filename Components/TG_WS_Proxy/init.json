@@ -1,0 +1,25 @@
+{
+    "store_id":"CSTYFL050",
+    "type":"component",
+    "name":"tg_ws_proxy",
+    "short_name":"TG WS Proxy",
+    "developer":"xvzc",
+    "icon":"$STATICIMAGE(Store/tg_ws_proxy.ico)",
+    "background":"#0088cc",
+    "stars":"3.7k",
+    "small_description":"$LOADDYNAMIC(Components/TG_WS_Proxy/{LOC_CODE}/small_description.md)",
+    "description":"$LOADDYNAMIC(Components/TG_WS_Proxy/{LOC_CODE}/description.md)",
+    "display_warning":false,
+    "links":[
+        {"name":"repo", "url":"https://github.com/Flowseal/tg-ws-proxy"}, 
+        {"name":"faq", "url":"https://github.com/Flowseal/tg-ws-proxy/issues/389"}
+    ],
+    "version_control":"git",
+    "version_control_link":"https://github.com/Flowseal/tg-ws-proxy",
+    "filetype":"WIN32application",
+    "target_executable_file":"TgWsProxy_windows",
+    "after_install_actions":"$RUNSCRIPT(finish_component_setup, tg_ws_proxy)",
+    "dependencies" : [],
+    "target_minversion":"0.4.3.0",
+    "target_maxversion":"NaN"
+}

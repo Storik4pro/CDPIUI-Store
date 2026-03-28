@@ -1,0 +1,1 @@
+A local SOCKS5 proxy for Telegram Desktop that speeds up Telegram.

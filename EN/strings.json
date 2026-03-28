@@ -16,5 +16,7 @@
     "wpf":"Window Packet Filter repository",
     "cloudtips":"Support the author via CloudTips (Russia)",
     "proxifyre":"ProxiFyre",
-    "android":"Android version"
+    "android":"Android version",
+    "tg_ws_proxy": "TG WS Proxy",
+    "faq": "FAQ"
 }
