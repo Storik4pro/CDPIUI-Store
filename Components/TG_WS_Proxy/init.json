@@ -16,6 +16,7 @@
     ],
     "version_control":"git",
     "version_control_link":"https://github.com/Flowseal/tg-ws-proxy",
+    "preffered_to_download_file_name" : "TgWsProxy_windows",
     "filetype":"WIN32application",
     "target_executable_file":"TgWsProxy_windows",
     "after_install_actions":"$RUNSCRIPT(finish_component_setup, tg_ws_proxy)",
