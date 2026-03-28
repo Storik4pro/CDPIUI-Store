@@ -3,7 +3,7 @@
     "type":"component",
     "name":"tg_ws_proxy",
     "short_name":"TG WS Proxy",
-    "developer":"xvzc",
+    "developer":"Flowseal",
     "icon":"$STATICIMAGE(Store/tg_ws_proxy.ico)",
     "background":"#0088cc",
     "stars":"3.7k",
