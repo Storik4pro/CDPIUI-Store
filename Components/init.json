@@ -5,6 +5,7 @@
         "zapret",
         "byedpi",
         "nodpi",
+        "tg_ws_proxy",
         "goodbyedpi",
         "spoofdpi"
     ],
@@ -13,6 +14,7 @@
         "byedpi":"ByeDPI",
         "nodpi":"NoDPI",
         "goodbyedpi":"GoodbyeDPI",
-        "spoofdpi":"SpoofDPI"
+        "spoofdpi":"SpoofDPI",
+        "tg_ws_proxy":"TG_WS_Proxy"
     }
 }
