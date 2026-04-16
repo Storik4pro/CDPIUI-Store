@@ -15,7 +15,7 @@
         {"name":"faq", "url":"https://github.com/Flowseal/tg-ws-proxy/issues/389"}
     ],
     "version_control":"git",
-    "version_control_link":"https://github.com/Flowseal/tg-ws-proxy",
+    "version_control_link":"https://github.com/Storik4pro/tg-ws-proxy",
     "preffered_to_download_file_name" : "TgWsProxy_windows.exe",
     "filetype":"WIN32application",
     "target_executable_file":"TgWsProxy_windows",
