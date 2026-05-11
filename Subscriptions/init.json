@@ -3,10 +3,12 @@
     "type":"second_category",
     "items":[
         "fwhosts",
-        "refilterlists"
+        "refilterlists",
+        "irefilterlists"
     ],
     "items_directories":{
         "fwhosts":"HostsByFlowseal",
-        "refilterlists":"ReFilterLists"
+        "refilterlists":"ReFilterLists",
+        "irefilterlists":"iReFilterLists"
     }
 }
