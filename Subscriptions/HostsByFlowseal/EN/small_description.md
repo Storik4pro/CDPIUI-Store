@@ -1,0 +1,1 @@
+HOSTS file from the Zapret-Discord-Youtube kit by Flowseal.

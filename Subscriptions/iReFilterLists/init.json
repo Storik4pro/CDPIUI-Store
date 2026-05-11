@@ -1,0 +1,27 @@
+{
+    "store_id":"SNZEFL042",
+    "type":"isubscription",
+    "name":"irefilterlists",
+    "short_name":"Re:filter – Ip",
+    "developer":"1andrevich",
+    "icon":"$STATICIMAGE(Store/empty.png)",
+    "background":"#FFF122",
+    "stars":"1.2k",
+    "small_description":"$LOADDYNAMIC(Subscriptions/iReFilterLists/{LOC_CODE}/small_description.md)",
+    "description":"$LOADDYNAMIC(Subscriptions/iReFilterLists/{LOC_CODE}/description.md)",
+    "display_warning":false,
+    "links":[
+        {"name":"repo", "url":"https://github.com/1andrevich/Re-filter-lists"}, 
+        {"name":"faq", "url":"https://habr.com/ru/articles/850292/"},
+        {"name":"kofi", "url":"https://ko-fi.com/D1D11SQNQD"},
+        {"name":"nowpayments", "url":"https://nowpayments.io/donation?api_key=decbeb76-30f8-4c6d-ba40-2d2dec7fd888"}
+    ],
+    "version_control":"git",
+    "version_control_link":"https://github.com/1andrevich/Re-filter-lists",
+    "filetype":"lst",
+    "preffered_to_download_file_name" : "ipsum.lst",
+    "after_install_actions":"$RUNSCRIPT(apply_ilist, SNZEFL042)",
+    "dependencies" : [],
+    "target_minversion":"0.5.0.0",
+    "target_maxversion":"NaN"
+}

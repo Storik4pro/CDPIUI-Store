@@ -15,8 +15,13 @@
     "zapretdiscordyoutubealt" : "Альтернативный набор настроек запуска для Zapret (By Remba)",
     "wpf":"Репозиторий Window Packet Filter на GitHub",
     "cloudtips":"Отправить денежное пожертвование автору через CloudTips (Россия)",
+    "kofi":"Отправить денежное пожертвование автору через Ko-Fi (Иностранная карта)",
+    "nowpayments":"Отправить денежное пожертвование автору через NOWPayments (Криптовалюта)",
     "proxifyre":"ProxiFyre",
     "android":"Версия для Android",
     "tg_ws_proxy": "TG WS Proxy",
-    "faq": "Ответы на часто задаваемые вопросы"
+    "faq": "Ответы на часто задаваемые вопросы",
+    "fwhosts" : "Файл HOSTS от Flowseal",
+    "refilterlists" : "Список заблокированных сайтов Re:filter",
+    "irefilterlists" : "Список заблокированных Ip-адресов Re:filter"
 }

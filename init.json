@@ -6,11 +6,13 @@
     "categories":[
         "components",
         "addons",
-        "configs"
+        "configs",
+        "subscriptions"
     ],
     "categories_directory": {
         "components":"Components",
         "addons":"AddOns",
-        "configs":"Configs"
+        "configs":"Configs",
+        "subscriptions":"Subscriptions"
     }
 }

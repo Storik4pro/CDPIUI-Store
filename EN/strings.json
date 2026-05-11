@@ -15,8 +15,13 @@
     "zapretdiscordyoutubealt" : "Alt config kit for Zapret (By Remba)",
     "wpf":"Window Packet Filter repository",
     "cloudtips":"Support the author via CloudTips (Russia)",
+    "kofi":"Support the author via Ko-Fi",
+    "nowpayments":"Support the author via NOWPayments (Crypto)",
     "proxifyre":"ProxiFyre",
     "android":"Android version",
     "tg_ws_proxy": "TG WS Proxy",
-    "faq": "FAQ"
+    "faq": "FAQ",
+    "fwhosts" : "HOSTS file by Flowseal",
+    "refilterlists" : "List of blocked sites Re:Filter",
+    "irefilterlists" : "List of blocked ips Re:Filter"
 }

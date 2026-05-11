@@ -1,0 +1,23 @@
+{
+    "store_id":"SNZEFL040",
+    "type":"hsubscription",
+    "name":"fwhosts",
+    "short_name":"HOSTS from Flowseal",
+    "developer":"Flowseal",
+    "icon":"$STATICIMAGE(Store/empty.png)",
+    "background":"#FFF122",
+    "stars":"27.7k",
+    "small_description":"$LOADDYNAMIC(Subscriptions/HostsByFlowseal/{LOC_CODE}/small_description.md)",
+    "description":"$LOADDYNAMIC(Subscriptions/HostsByFlowseal/{LOC_CODE}/description.md)",
+    "display_warning":false,
+    "links":[
+        {"name":"repo", "url":"https://github.com/Flowseal/zapret-discord-youtube/blob/main/.service/hosts"}
+    ],
+    "version_control":"subscription",
+    "version_control_link":"https://github.com/Flowseal/zapret-discord-youtube/blob/main/.service/hosts",
+    "filetype":"raw",
+    "after_install_actions":"$RUNSCRIPT(apply_hosts, SNZEFL040)",
+    "dependencies" : [],
+    "target_minversion":"0.5.0.0",
+    "target_maxversion":"NaN"
+}

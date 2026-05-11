@@ -1,0 +1,12 @@
+{
+    "store_id":"C004SS",
+    "type":"second_category",
+    "items":[
+        "fwhosts",
+        "refilterlists"
+    ],
+    "items_directories":{
+        "fwhosts":"HostsByFlowseal",
+        "refilterlists":"ReFilterLists"
+    }
+}
