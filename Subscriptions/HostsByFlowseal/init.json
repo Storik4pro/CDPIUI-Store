@@ -14,7 +14,7 @@
         {"name":"repo", "url":"https://github.com/Flowseal/zapret-discord-youtube/blob/main/.service/hosts"}
     ],
     "version_control":"subscription",
-    "version_control_link":"https://github.com/Flowseal/zapret-discord-youtube/blob/main/.service/hosts",
+    "version_control_link":"https://raw.githubusercontent.com/Flowseal/zapret-discord-youtube/refs/heads/main/.service/hosts",
     "filetype":"raw",
     "after_install_actions":"$RUNSCRIPT(apply_hosts, SNZEFL040)",
     "dependencies" : [],
